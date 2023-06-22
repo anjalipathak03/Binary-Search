@@ -12,3 +12,5 @@ This repository contains a Python implementation of the binary search algorithm.
 
    ```bash
    python binary_search.py
+   
+The output will indicate whether the target element was found in the array or not
